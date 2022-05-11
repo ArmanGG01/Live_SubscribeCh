@@ -1,28 +1,28 @@
 {
-    "name": "Telegram Live Subscriber Count",
+    "name": "Telegram Live SubscriberCh",
     "description": "Telegram Channel LIve Subscriber Count",
-    "repository": "https://github.com/lntechnical2/Telegram_Live_Subscriber_Count",
-    "success_url": "https://telegram.dog/lntechnical",
+    "repository": "https://github.com/ArmanGG01/Live_SubscriberCh",
+    "success_url": "https://telegram.dog/PakkPoll",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "Masukkan API ID Mu Di Bawah Sini Kontol, Langsung Aja Bukak my.telegram.org ",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "Masukkan API Hash Mu Di Bawah Sini Memek, Langsung Bukak my.telegram.org ",
             "value": ""
         },
         "TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "Bot Token Mu Masukkan Sini Anak Haram Nhambil Nya Di @BotFather",
             "value": ""
         },
         "ADMIN": {
-            "description": "Your User ID",
-            "value": ""
+            "description": " ID Telegram Mu ",
+            "value": "1694909518"
         },
         "CH_USER_NAME":{ 
-               "description":"Channel User Name Without @",
-                "value": ""
+               "description":"Name Username Channel Tanpa @",
+                "value": "StoryArman"
         }
     },
     "buildpacks": [
